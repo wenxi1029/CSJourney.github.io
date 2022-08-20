@@ -1,4 +1,6 @@
-# Glimpse Into The Industry
+---
+title: "Glimpse Into The Industry"
+---
 
 When I first heard of the role of a pentester, I immediately thought of a show I watched a few years back, Mr Robot, where the protagonist does cool things while struggling with his morals and ethics. I was so intrigued by it that I went to scour the web for everything related to hacking and cybersecurity. I scanned through many different forms of media and it only got me more excited. While it is not all fancy and exhilarating like they show in movies, I do not see any deterence for me, even for the things, such as report writing, that many see as boring. 
 
