@@ -1,8 +1,8 @@
 ---
 permalink: /about/
-title: "About"
+title: "About CSJourney"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hey there! Welcome! This is my space(pun intended) where I document my journey as I dive into the nooks and crannies of the cyberworld. Fueled by my interest in cybersecurity, I will try my best to bring you along into this exciting world. I will be sharing my experiences, things that I learn and maybe some tools that I might create. It is fate that you chance upon this place, so I hope I can give you something to walk away with. And if you are considering to enter the field, I hope my sharing can serve as a glimpse to help you decide and help you find an entry point.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+tldr; This is my cybersecurity blog.
