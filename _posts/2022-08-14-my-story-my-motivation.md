@@ -1,6 +1,9 @@
 ---
 title: "My Story My Motivation"
+layout: splash
 ---
+
+# My Story My Motivation
 
 I am a typical Singaporean boy who grew up in the typical Singapore education system. I have always cruised through life following the system, following the masses. I got into good schools, gotten good grades. I had never really knew what I wanted to do. As a millenial growing up, I have heard about things like the dotcom bubble, the y2k bug and the various viruses and malwares that are affecting computers worldwide. These things used to scare me. My family had a Dell Pentium 4 desktop setup in the corner of my parents' bedroom. Whenever I get my time at the computer, I was afraid of getting into trouble for getting viruses on the computer. And that would mean no more game time for me. However, very soon I discovered that I could simply reformat the computer if it got infected. During that time, personal information, privacy and security were not a big thing and nobody had any important thing stored on the computer. I would often use the computer to play games from dubious sources and when it got infected, I would just flash a fresh copy of the OS. 
 
