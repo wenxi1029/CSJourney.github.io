@@ -1,6 +1,9 @@
 ---
 title: "Getting Chummy with Terminal"
+layout: splash
 ---
+
+# Getting Chummy with Terminal
 
 If you are in the IT industry, and you are going to be dealing with computers and servers, you can't run away from the terminal. In fact the terminal should be your best friend. The terminal provides direct access to the computer's underlying file system and low-level features, allowing you to execute complex tasks quickly and even automatically. It provides a shell, an environment, to execute shell commands and shell scripts. There are different flavours of OS, and each has their own flavour of terminal.
 
