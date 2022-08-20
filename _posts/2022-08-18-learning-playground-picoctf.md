@@ -1,5 +1,5 @@
 ---
-Title: Learning Playground 1: PicoCTF
+title: Learning Playground 1: PicoCTF
 ---
 
 picoCTF is a free, original computer security education program based on a Capture-The-Flag(CTF) framework developed by security and privacy experts at Carnegie Mellon University. Originally aimed at high school students, it has various resources that are beginner-friendly. The purpose is to help participants get hands-on experiences in a safe environment. The flags are usually a hidden string that you have to find using various techniques. 
