@@ -24,6 +24,7 @@ Click on [Kali Linux](https://www.kali.org/get-kali/#kali-virtual-machines) and 
 You will also need a virtualisation platform. Choose the appropriate one based on your host PC operating system.
 
 [VMware Workstation 16 Player](https://customerconnect.vmware.com/en/downloads/details?downloadGroup=WKST-PLAYER-1624&productId=1039&rPId=91446)
+
 [Oracle VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 
 For this tutorial, I will be using VMware Workstation 16 Player. For those installing on windows, just run the installer. For those using Linux for host OS, type `sh (bundle file name)` to install. If you are not in root access, use `sudo` in front.
@@ -35,13 +36,13 @@ After you are done installing the VMware Workstation 16 Player, launch it and ge
 Once you are done, click on `Open a Virtual Machine` and browse to where you unzip the Kali Linux VM.
 <img src="{{site.baseurl | prepend: site.url}}assets/images/VMKali/3.png" alt="" />
 
-Leave all the settings at default, click `Power Oon` and let the VM load. At the login screen, enter the default user and password which is `kali` for both.
+Leave all the settings at default, click `Power On` and let the VM load. At the login screen, enter the default user and password which is `kali` for both.
 <img src="{{site.baseurl | prepend: site.url}}assets/images/VMKali/4.png" alt="" />
 
 Now you should see the desktop interface for Kali Linux. At the top left corner there is a menu button, where you can click and see all the various information security tools categorised in their applications.
 <img src="{{site.baseurl | prepend: site.url}}assets/images/VMKali/6.png" alt="" />
 
-But first things first, open up the terminal and type 'sudo apt update' to get all the latest updated packages for the tools and system.
+But first things first, open up the terminal and type `sudo apt update` to get all the latest updated packages for the tools and system.
 <img src="{{site.baseurl | prepend: site.url}}assets/images/VMKali/7.png" alt="" />
 
 Now you can go ahead and explore the VM. Don't worry about breaking it because you can always do a fresh setup easily. In my next post, I will be sharing on 1 or 2 of the tools available in Kali Linux.
