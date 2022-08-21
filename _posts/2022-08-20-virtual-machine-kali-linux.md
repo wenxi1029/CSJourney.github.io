@@ -9,7 +9,7 @@ At my current work, I deal with semiconductor machinery. The equipment that I wo
 
 Based on Microsoft's definition, a VM is a computer file, typically called an image, that behaves like an actual computer. It can run in a window as a separate computing environment, often to run a different operating system—or even to function as the user's entire computer experience—as is common on many people's work computers.
 
-Simply put, you can use a virtualisation platform, such as VMware workstation and Oracle VM VirtualBox, and load up a VM like it is another computer running with your computer. It is an environment that is separate from your host PC. This allows you to run Linux on a Windows PC, or Windows on a Mac PC and vice versa.
+Simply put, you can use a virtualisation platform, such as VMware workstation and Oracle VM VirtualBox, and load up a VM like it is another computer running within your computer. It is an environment that is separate from your host PC. This allows you to run Linux on a Windows PC, or Windows on a Mac PC and vice versa.
 
 Going back to the equipment at my job, we use VM to train and familiarise ourselves with the equipment control software. We run the software in a VM, isolated from the actual equipment. In order to run the software in the VM without the actual equipment, the I/Os need to be disabled or dummy inputs need to be given. This is so that we do not damage or crash the equipment if we press any wrong controls. It is especially useful for training and building confidence in machine handling. Also, it can be run on any PC and there is no need to take up the equipment's precious system time for production.
 
