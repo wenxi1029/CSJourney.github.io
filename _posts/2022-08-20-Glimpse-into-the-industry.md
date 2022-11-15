@@ -101,6 +101,6 @@ For those who already have some IT/programming experience, time to get your feet
 
 I hope all these would be helpful to you who is reading this.
 
-At the time of writing, I am studying for CompTIA A+ and JNCIA-Junos certs. Everyday, I am eager to start my study period in the morning and get some hands on with picoCTF and HTB at night.
+At the time of writing, I am studying for CompTIA Security+ and eJPT certs. Everyday, I am eager to start my study period in the morning and get some hands on with picoCTF and HTB at night.
 
 tldr; See **BOLD** for categories, and links under them for resources.
